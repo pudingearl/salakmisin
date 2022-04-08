@@ -1,0 +1,8 @@
+C:\Users\thefu\source\repos\Hizmetçi\Hizmetçi\obj\Debug\Hizmetçi.csproj.AssemblyReference.cache
+C:\Users\thefu\source\repos\Hizmetçi\Hizmetçi\obj\Debug\Hizmetçi.csproj.SuggestedBindingRedirects.cache
+C:\Users\thefu\source\repos\Hizmetçi\Hizmetçi\obj\Debug\Hizmetçi.csproj.CoreCompileInputs.cache
+C:\Users\thefu\source\repos\Hizmetçi\Hizmetçi\bin\Debug\Hizmetçi.exe.config
+C:\Users\thefu\source\repos\Hizmetçi\Hizmetçi\bin\Debug\Hizmetçi.exe
+C:\Users\thefu\source\repos\Hizmetçi\Hizmetçi\bin\Debug\Hizmetçi.pdb
+C:\Users\thefu\source\repos\Hizmetçi\Hizmetçi\obj\Debug\Hizmetçi.exe
+C:\Users\thefu\source\repos\Hizmetçi\Hizmetçi\obj\Debug\Hizmetçi.pdb
